@@ -27,4 +27,3 @@ A face recognition-based driver authentication module developed as part of a fin
 ## Project Status
 The face recognition module is currently implemented. Additional vehicle safety and authentication features will be integrated as the project progresses.
 
-The face recognition module is currently implemented. Additional vehicle safety and authentication features will be integrated as the project progresses.
