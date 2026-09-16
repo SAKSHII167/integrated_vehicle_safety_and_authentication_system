@@ -1,0 +1,10 @@
+**pycache**/
+*.pyc
+
+dataset/
+
+.venv/
+venv/
+.env
+
+.vscode/
